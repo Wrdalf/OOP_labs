@@ -15,4 +15,5 @@
 
 [Тема 22](labs%2F22%2FOOP_22.md)
 
+[Игра 2048](labs%2F2048GameProject%2FREADME.md)
 
